@@ -1,12 +1,13 @@
+body{
+    background-color: ghostwhite;
+}
 h1{
     color: rgb(46, 46, 131);
-    background-color: ghostwhite;
     text-align: center;
     font-size: 10mm;
 }
 div{
     color: rgb(102, 65, 65);
-    background-color: ghostwhite;
     text-align: center;
     font-size: 5mm
 }
