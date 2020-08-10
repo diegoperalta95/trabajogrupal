@@ -1,5 +1,5 @@
 const LIST_URL = "https://thepante.github.io/elrepo/menu.json";
-
+const USUARIOS_URL = "https://danielk2020.github.io/biblioteca/usuarios.json";
 
 var getJSONData = function(url){
     var result = {};
